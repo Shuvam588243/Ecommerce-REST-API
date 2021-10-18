@@ -1,0 +1,11 @@
+
+{
+    "newUser" : {
+        "firstName" : "admin",
+        "lastName" : "new1",
+        "userName" : "admin",
+        "email" : "admin@gmail.com",
+        "password" : "admin",
+        "contactNumber" : "9987656431"
+    }
+}
